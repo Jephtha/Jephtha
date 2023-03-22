@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jephthah</h1>
+<h1 align="center">Hi👋🏾, I'm Jephthah</h1>
 <h3 align="center">A passionate software developer</h3>
 
 
@@ -24,6 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jephtha&show_icons=true&locale=en&layout=compact" alt="jephthah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jephtha&show_icons=true&locale=en" alt="jephthah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jephtha&" alt="jephthah" /></p>
 
